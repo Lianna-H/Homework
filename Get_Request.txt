@@ -1,0 +1,8 @@
+Get  https://www.tester.com/
+
+
+Response:
+https://bb/employees/girls
+https://bb/employees/boys
+https://bb/employees/salary
+https://bb/employees/salary/?salary=200000
